@@ -1,0 +1,178 @@
+,BRCA,GBM,LUAD,UCEC,PANCAN,num
+TP53,SNP,recurrent missense,recurrent missense,recurrent missense,recurrent missense,27
+PIK3CA,recurrent missense,inframe indel,recurrent missense,recurrent missense,recurrent missense,20
+PTEN,SNP,DEL,,SNP,DEL,17
+KRAS,exp_mean,,recurrent missense,recurrent missense,recurrent missense,16
+RB1,SNP,DEL,methy_std,SNP,DEL,14
+ARID1A,DEL,,SNP,DEL,DEL,14
+FBXW7,DEL,,,recurrent missense,recurrent missense,12
+NRAS,,,,recurrent missense,recurrent missense,12
+CTNNB1,,,recurrent missense,recurrent missense,recurrent missense,11
+CDKN2A,,,inframe indel,,DEL,10
+NF1,INS,DEL,SNP,,DEL,9
+HRAS,,,,,recurrent missense,9
+NFE2L2,,,,recurrent missense,recurrent missense,8
+KMT2D,,,,,DEL,8
+BRAF,,recurrent missense,recurrent missense,,recurrent missense,8
+KDM6A,,,,,INS,7
+BAP1,,,,,DEL,7
+IDH1,,recurrent missense,,,recurrent missense,7
+ERBB2,recurrent missense,,,exp_mean,recurrent missense,7
+SMAD4,,,,,recurrent missense,7
+NOTCH1,,,,,DEL,6
+PIK3R1,INS,inframe indel,,DEL,INS,6
+EP300,,,,SNP,INS,6
+ARID2,,,,,DEL,6
+FAT1,,,,SNP,DEL,6
+AKT1,recurrent missense,,,recurrent missense,recurrent missense,6
+SETD2,,,SNP,,DEL,6
+ATRX,,DEL,,,DEL,5
+CASP8,SNP,,,,INS,5
+APC,,,,,INS,5
+KMT2C,INS,,,SNP,DEL,5
+ATM,,,SNP,SNP,DEL,5
+KEAP1,,,SNP,,SNP,5
+EGFR,,recurrent missense,inframe indel,,SNP,4
+SF3B1,recurrent missense,,,,recurrent missense,4
+ACVR2A,,,,,DEL,4
+TGFBR2,,,,,cna_mean,4
+CHD4,SNP,,,SNP,SNP,4
+PBRM1,,,,SNP,DEL,4
+CUL3,,,,,SNP,4
+ERBB3,,,,SNP,recurrent missense,4
+MAP3K1,INS,,,DEL,INS,4
+RHOA,,,,,recurrent missense,4
+FOXA1,recurrent missense,,,,DEL,4
+SMARCA4,,,SNP,,SNP,4
+GNAS,,,,,,4
+SMAD2,,,,,nonsense,4
+RNF43,,,,,,3
+RBM10,,,,,,3
+FGFR3,,,,,,3
+NF2,,,,,,3
+PCBP1,,,,,,3
+CDKN1A,,,,,,3
+HLA-A,,,,,,3
+PPP2R1A,,,,,,3
+KIT,,,,,,3
+STAG2,,,,,,3
+NSD1,,,,,,3
+U2AF1,,,,,,3
+CDH1,,,,,,3
+BCOR,,,,,,3
+TCF12,,,,,,3
+RAC1,,,,,,3
+BRCA1,,,,,,3
+GNA11,,,,,,3
+FGFR2,,,,,,3
+SPOP,,,,,,3
+CTCF,,,,,,3
+STK11,,,,,,3
+MAPK1,,,,,,3
+AMER1,,,,,,3
+CDKN1B,,,,,,2
+PSIP1,,,,,,2
+MET,,,,,,2
+TSC1,,,,,,2
+CREBBP,,,,,,2
+PTPN11,,,,,,2
+ASXL2,,,,,,2
+PTCH1,,,,,,2
+MAX,,,,,,2
+CIC,,,,,,2
+ELF3,,,,,,2
+GATA3,,,,,,2
+TBX3,,,,,,2
+ATR,,,,,,2
+NCOR1,,,,,,2
+MAP2K1,,,,,,2
+EIF1AX,,,,,,2
+RPL22,,,,,,2
+MTOR,,,,,,2
+DDX3X,,,,,,2
+GNAQ,,,,,,2
+VHL,,,,,,2
+TCF7L2,,,,,,2
+AXIN1,,,,,,2
+CCND1,,,,,,2
+MAP2K4,,,,,,2
+KDM5C,,,,,,2
+CBFB,,,,,,2
+CDK12,,,,,,2
+IDH2,,,,,,2
+RUNX1,,,,,,2
+B2M,,,,,,2
+LZTR1,,,,,,2
+FUBP1,,,,,,2
+CTNND1,,,,,,2
+MECOM,,,,,,1
+ARAF,,,,,,1
+JAK3,,,,,,1
+ZFHX3,,,,,,1
+BRCA2,,,,,,1
+MSH6,,,,,,1
+ZMYM3,,,,,,1
+XPO1,,,,,,1
+ERBB4,,,,,,1
+MLH1,,,,,,1
+PRKAR1A,,,,,,1
+ZMYM2,,,,,,1
+LATS1,,,,,,1
+MYH9,,,,,,1
+CYLD,,,,,,1
+CD79B,,,,,,1
+THRAP3,,,,,,1
+ACVR1,,,,,,1
+TBL1XR1,,,,,,1
+MGMT,,,,,,1
+MYC,,,,,,1
+ALK,,,,,,1
+MSH2,,,,,,1
+NOTCH2,,,,,,1
+CNBD1,,,,,,1
+H3F3A,,,,,,1
+IL7R,,,,,,1
+PIM1,,,,,,1
+DNMT3A,,,,,,1
+PTPRC,,,,,,1
+PAX5,,,,,,1
+WT1,,,,,,1
+POLE,,,,,,1
+FLNA,,,,,,1
+RAF1,,,,,,1
+DICER1,,,,,,1
+MYCN,,,,,,1
+POLQ,,,,,,1
+CYSLTR2,,,,,,1
+PTPRD,,,,,,1
+PLCG1,,,,,,1
+CARD11,,,,,,1
+SETBP1,,,,,,1
+AR,,,,,,1
+PPP6C,,,,,,1
+RPL5,,,,,,1
+KMT2A,,,,,,1
+LATS2,,,,,,1
+ABL1,,,,,,1
+PIK3CB,,,,,,1
+ASXL1,,,,,,1
+AXIN2,,,,,,1
+IL6ST,,,,,,1
+MED12,,,,,,1
+BCL2,,,,,,1
+CDKN2C,,,,,,1
+SMC1A,,,,,,1
+FGFR1,,,,,,1
+JAK1,,,,,,1
+ESR1,,,,,,1
+TSC2,,,,,,1
+JAK2,,,,,,1
+TNFAIP3,,,,,,1
+SMARCB1,,,,,,1
+MYD88,,,,,,1
+MEN1,,,,,,1
+PDGFRA,,,,,,1
+RET,,,,,,1
+EPAS1,,,,,,1
+EPHA3,,,,,,1
+RARA,,,,,,1
